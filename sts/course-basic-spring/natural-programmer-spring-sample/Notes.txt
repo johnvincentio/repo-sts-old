@@ -1,0 +1,8 @@
+
+debug as, Spring Boot App
+App runs. To stop app, red stop button.
+
+http://localhost:8080/mail
+
+http://localhost:8080/mail
+

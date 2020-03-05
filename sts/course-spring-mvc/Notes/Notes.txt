@@ -1,0 +1,21 @@
+
+store-mvc-5
+
+use chocolate_store
+
+select * from customer;
+
+
+insert into category (id, name, description) 
+values (default, 'Abcd', 'Abcd desc');
+
+insert into category (name, description) 
+values ('Defg', 'Defg desc');
+
+select * from category;
+
+
+select * from category where id = 1;
+select * from product;
+
+

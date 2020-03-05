@@ -1,0 +1,25 @@
+ref:
+https://spring.io/guides/gs/serving-web-content/
+
+Build:
+Select project
+Run As
+Maven install
+
+mvn spring-boot:run
+
+Run:
+Select project
+Run As
+SpringBoot App
+
+http://localhost:8080/greeting
+
+curl localhost:8080
+
+Stop App;
+
+lsof - list open files
+
+lsof -i -n -P | grep -i tcp | grep 8080
+

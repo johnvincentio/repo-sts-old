@@ -1,0 +1,14 @@
+{
+  "groups": [{
+    "name": "hello",
+    "type": "com.idc.hello.boot.HelloProperties",
+    "sourceType": "com.idc.hello.boot.HelloProperties"
+  }],
+  "properties": [{
+    "name": "hello.greeting",
+    "type": "java.lang.String",
+    "description": "Greeting message returned by the Hello Rest service.",
+    "sourceType": "com.idc.hello.boot.HelloProperties"
+  }],
+  "hints": []
+}

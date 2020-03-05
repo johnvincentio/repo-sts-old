@@ -1,0 +1,9 @@
+refs:
+http://www.concretepage.com/spring-4/spring-4-mvc-internationalization-i18n-and-localization-l10n-annotation-example
+
+http://elizabetht.github.io/blog/2013/11/21/student-enrollment-using-hibernate-with-spring/
+
+Create Dynamic Web Project
+Convert to Maven Project
+Then edit pom.xml etc
+

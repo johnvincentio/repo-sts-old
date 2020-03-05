@@ -1,0 +1,20 @@
+
+Login to the from google account.
+Go to:
+https://www.google.com/settings/security/lesssecureapps
+
+Access for less secure apps:
+Turn on
+
+
+EmailTest.java:
+		String toAddr = "to@gmail.com";
+		String fromAddr = "from@gmail.com";
+
+src/main/resources/my-beans.xml:
+The following needs to be set properly
+
+		<property name="username" value="account" />
+		<property name="password" value="pwd" />
+
+Run EmailTest as Java Application.

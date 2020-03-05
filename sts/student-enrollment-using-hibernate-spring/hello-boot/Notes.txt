@@ -1,0 +1,8 @@
+ref:
+https://spring.io/blog/2015/03/18/spring-boot-support-in-spring-tool-suite-3-6-4
+
+Run As:
+Spring Boot App
+
+http://localhost:8080/hello?name=Kris
+

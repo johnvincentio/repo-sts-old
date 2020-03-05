@@ -1,0 +1,29 @@
+ref:
+https://www.javacodegeeks.com/2013/05/spring-jpa-data-hibernate-mysql-maven.html
+
+https://github.com/Fruzenshtein/spr-data
+
+use spring_data_1;
+
+CREATE TABLE `shops` (
+  `id` int(6) NOT NULL AUTO_INCREMENT,
+  `name` varchar(60) NOT NULL,
+  `employees_number` int(6) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
+
+delete from shops;
+
+insert into shops(name,employees_number) values ('aaa', 12);
+insert into shops(name,employees_number) values ('bbb', 20);
+
+select * from shops;
+
+pom.xml
+	<artifactId>store</artifactId>
+
+thus:
+http://localhost:8080/store/
+
+
+
