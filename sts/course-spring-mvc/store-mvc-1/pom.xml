@@ -8,7 +8,7 @@
 
 	<properties>
 			<!-- Spring -->
-		<spring-framework.version>4.2.5.RELEASE</spring-framework.version>
+		<spring-framework.version>5.3.18</spring-framework.version>
 
 		<!-- Hibernate / JPA -->
 		<hibernate.version>4.2.2.Final</hibernate.version>
